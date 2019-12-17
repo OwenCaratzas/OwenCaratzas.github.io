@@ -1,3 +1,3 @@
 ## Portfolio
 
-Link: https://owencaratzas.github.io/
+Link: https://owencaratzas.github.io/Portfolio/
