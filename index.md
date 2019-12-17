@@ -1,12 +1,12 @@
 <body>
-		<h1>
-			Hello World
-		</h1>
-		<h3> Pages: </h3>
-		<ul>
-			<li>Home</li>
-			<li><a href="AboutMe.html">About Me</a></li>
-            <li><a href="MyProjects.html">My previous and current projects</a></li>
-			<li><a href="ContactMe.html">Contact Me</a></li>
-		</ul>
-	</body>
+	<h1>
+		Hello World
+	</h1>
+	<h3> Pages: </h3>
+	<ul>
+		<li>Home</li>
+		<li><a href="AboutMe.md">About Me</a></li>
+           <li><a href="MyProjects.html">My previous and current projects</a></li>
+		<li><a href="ContactMe.html">Contact Me</a></li>
+	</ul>
+</body>
