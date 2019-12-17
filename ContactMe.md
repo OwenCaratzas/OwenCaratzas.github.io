@@ -9,10 +9,10 @@
 		<li>Contact Me</li>
 	</ul>
 	<h2>
-	LinkedIn: https://www.linkedin.com/in/owen-caratzas/
+	LinkedIn: <a href="https://www.linkedin.com/in/owen-caratzas/" target="_blank">Owen Caratzas LinkedIn</a>
 	</h2>
 	<h2>
-	Github: https://github.com/OwenCaratzas
+	Github: <a href="https://github.com/OwenCaratzas" target="_blank">Owen Caratzas Github</a>
 	</h2>
 	<h2>
 	Email: OwenCaratzas@hotmail.com
