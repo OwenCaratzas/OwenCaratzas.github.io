@@ -5,7 +5,6 @@
 	<h3> Pages: </h3>
 	<ul>
 		<li>Home</li>
-		<li><a href="AboutMe.html">About Me</a></li>
            <li><a href="MyProjects.html">My previous and current projects</a></li>
 		<li><a href="ContactMe.html">Contact Me</a></li>
 	</ul>
@@ -20,5 +19,4 @@
 	and experiencing working within development teams made with other students. 
 	During my studies, I have learnt C# and C++, with a preference of C# using the Unity engine.
 	</p>
-	
 </body>
