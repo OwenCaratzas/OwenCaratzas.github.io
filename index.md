@@ -8,7 +8,7 @@
            <li><a href="MyProjects.html">My previous and current projects</a></li>
 		<li><a href="ContactMe.html">Contact Me</a></li>
 	</ul>
-	<img src="MyPhoto.jpg" alt="A photo of me" width="80" height="100">
+	<img src="MyPhoto.jpg" alt="A photo of me" width="500" height="500">
 	<h2>
 	About Me
 	</h2>
