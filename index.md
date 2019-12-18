@@ -9,7 +9,7 @@
 		<li><a href="ContactMe.html">Contact Me</a></li>
 	</ul>
 	<img src="MyPhoto.jpg" alt="A photo of me" width="150" height="150">
-	<IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:100px; HEIGHT:100px" SRC="MyPhoto.jpg">
+	<IMG STYLE="position:absolute; TOP:30px; LEFT:100px; WIDTH:100px; HEIGHT:100px" SRC="MyPhoto.jpg">
 	<h2>
 	About Me
 	</h2>
