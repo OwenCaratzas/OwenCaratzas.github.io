@@ -46,6 +46,7 @@
 			</ul>
 		
 	</ul>
+	<p>
 		Download the game <a href="https://www.dropbox.com/s/toirfc73cr0zmzn/TheGreatTrainHeist.zip?dl=0" target="_blank"> HERE!</a>
-	
+	</p>
 </body>
