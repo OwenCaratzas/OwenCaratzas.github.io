@@ -21,7 +21,7 @@
 
 
 	<br>
-	<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b><h3>
+	<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b></h3>
 	<br>
 	<ul>
 		<li><b>Owen Caratzas - Programmer</b></li>
