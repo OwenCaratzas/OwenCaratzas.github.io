@@ -9,9 +9,33 @@
 		<li><a href="ContactMe.html">Contact Me</a></li>
 	</ul>
 	<h2>
-	Project 1:
+		The Great Train Heist:
 	</h2>
 	<p>
-	Talk about the project and put images/videos/gifs of it here, and chuck up a download link
+		|Gif|
+		The Great Train Heist is a firstperson western-punk stealth game, where you must avoid detection as you navigate past 
+		robot guards, security cameras and other obstacles in order to steal from the safe and escape. 
+		<br>
+		It was made using C# in the Unity engine (HD Render Pipeline), and uses a custom AI behaviour system, custom (audio and visual) detection systems and a custom character controller.
+		<br>
+		<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b><h3>
+		<br>
+		<ul>
+			<li><b>Cadhla Roberts</b></li>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/cadhla-roberts/" target="_blank">LinkedIn</a></li>
+			<li><b>Courtney Adams</b></li>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/courtneyadamsdesign/" target="_blank">LinkedIn</a></li>
+			<li><b>Tane Wilks</b></li>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/tanewilks/" target="_blank">LinkedIn</a></li>
+			<li><b>Mitch Moore</b></li>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/mitch-moore-artist/" target="_blank">LinkedIn</a></li>
+			
+		</ul>
+		|Dev team that worked on it, then list the members, their roles and their linkedin accounts|
+		|download link|
 	</p>
 </body>
