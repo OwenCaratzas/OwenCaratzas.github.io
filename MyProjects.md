@@ -24,15 +24,19 @@
 			<li><b>Cadhla Roberts</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/cadhla-roberts/" target="_blank">LinkedIn</a></li>
+				</ul>
 			<li><b>Courtney Adams</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/courtneyadamsdesign/" target="_blank">LinkedIn</a></li>
+				</ul>
 			<li><b>Tane Wilks</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/tanewilks/" target="_blank">LinkedIn</a></li>
+				</ul>
 			<li><b>Mitch Moore</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/mitch-moore-artist/" target="_blank">LinkedIn</a></li>
+				</ul>
 			
 		</ul>
 		|Dev team that worked on it, then list the members, their roles and their linkedin accounts|
