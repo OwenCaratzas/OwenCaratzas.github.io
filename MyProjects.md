@@ -17,11 +17,12 @@
 		robot guards, security cameras and other obstacles in order to steal from the safe and escape. 
 		<br>
 		It was made using C# in the Unity engine (HD Render Pipeline), and uses a custom AI behaviour system, custom (audio and visual) detection systems and a custom character controller.
-		<br>
-		<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b><h3>
-		<br>
 	</p>
-	
+</body>
+
+	<br>
+	<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b><h3>
+	<br>
 	<ul>
 		<li><b>Owen Caratzas - Programmer</b></li>
 			<ul>
@@ -47,4 +48,3 @@
 	</ul>
 		Download the game <a href="https://www.dropbox.com/s/toirfc73cr0zmzn/TheGreatTrainHeist.zip?dl=0" target="_blank"> HERE!</a>
 	
-</body>
