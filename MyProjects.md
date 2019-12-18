@@ -21,19 +21,23 @@
 		<h3>The team I worked with to create this game is <b>YeeHaw Studios:</b><h3>
 		<br>
 		<ul>
-			<li><b>Cadhla Roberts</b></li>
+			<li><b>Owen Caratzas - Programmer</b></li>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/owen-caratzas/" target="_blank">LinkedIn</a></li>
+				</ul>
+			<li><b>Cadhla Roberts - Designer</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/cadhla-roberts/" target="_blank">LinkedIn</a></li>
 				</ul>
-			<li><b>Courtney Adams</b></li>
+			<li><b>Courtney Adams - Designer</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/courtneyadamsdesign/" target="_blank">LinkedIn</a></li>
 				</ul>
-			<li><b>Tane Wilks</b></li>
+			<li><b>Tane Wilks - Artist</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/tanewilks/" target="_blank">LinkedIn</a></li>
 				</ul>
-			<li><b>Mitch Moore</b></li>
+			<li><b>Mitch Moore - Artist</b></li>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/mitch-moore-artist/" target="_blank">LinkedIn</a></li>
 				</ul>
