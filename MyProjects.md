@@ -12,7 +12,7 @@
 		The Great Train Heist:
 	</h2>
 	<p>
-		|Gif|
+		<img src="The_Great_Train_Heist.gif" alt="Gameplay snapshot" width="500" height="500">
 		The Great Train Heist is a firstperson western-punk stealth game, where you must avoid detection as you navigate past 
 		robot guards, security cameras and other obstacles in order to steal from the safe and escape. 
 		<br>

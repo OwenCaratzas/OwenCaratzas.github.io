@@ -5,7 +5,7 @@
 	<h3> Pages: </h3>
 	<ul>
 		<li>Home</li>
-           <li><a href="MyProjects.html">My previous and current projects</a></li>
+		<li><a href="MyProjects.html">My previous and current projects</a></li>
 		<li><a href="ContactMe.html">Contact Me</a></li>
 	</ul>
 	<img src="MyPhoto.jpg" alt="A photo of me" width="150" height="150">
