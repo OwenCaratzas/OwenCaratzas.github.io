@@ -43,7 +43,6 @@
 				</ul>
 			
 		</ul>
-		|Dev team that worked on it, then list the members, their roles and their linkedin accounts|
-		|download link|
+		Download the game <a href="https://www.dropbox.com/s/toirfc73cr0zmzn/TheGreatTrainHeist.zip?dl=0" download="The_Great_Train_Heist"> HERE!</a>
 	</p>
 </body>
