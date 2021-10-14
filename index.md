@@ -17,9 +17,20 @@
 	<p>
 		Welcome to my site! My name is Owen Caratzas, and I'm a games programmer. 
 		I started programming in 2016 when I picked up Software Design & Development 
-		and Information Processes & Technology in High School. After graduating I studied game development for programming
-		at the Academy of Interactive Entertainment for two years, learning a couple of coding languages 
+		and Information Processes & Technology in High School, and quickly fell in 
+		love with programming and working with software. After graduating Highschool 
+		I studied programming in game development at the 
+		Academy of Interactive Entertainment for two years, learning a couple of coding languages 
 		and experiencing working within development teams made with other students. 
 		During my studies, I have developed a good understanding of C# and C++, with a preference of C# using the Unity engine.
+		Some examples of things I have worked on:
+		<ul>
+			<li>Custom AI pathfinding and behaviours</li>
+			<li>An RPG character creator tool for storing, creating and managing character stats for use in games via XML files</li>
+			<li>Custom graphics engine for rendering 3D models and simulating light sources</li>
+			<li>Custom physics engine for simulating 2D collisions</li>
+			<li>3-DoF virtual reality headset games for Oculus Go</li>
+			<li>Custom math library</li>
+		</ul>
 	</p>
 </body>

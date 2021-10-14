@@ -49,14 +49,4 @@
 	<p>
 		Download the game <a href="https://www.dropbox.com/s/toirfc73cr0zmzn/TheGreatTrainHeist.zip?dl=0" target="_blank"> HERE!</a>
 	</p>
-	<h2>
-		RPG Character Cheet Creator Tool:
-	</h2>
-	<p>
-		<!--><img src="The_Great_Train_Heist.gif" alt="Gameplay snapshot gif"><!-->
-		The Great Train Heist is a firstperson western-punk stealth game, where you must avoid detection as you navigate past 
-		robot guards, security cameras and other obstacles in order to steal from the safe and escape. 
-		<br>
-		It was made using C# in the Unity engine (HD Render Pipeline), and features a custom AI behaviour system, custom (audio and visual) detection systems and a custom character controller.
-	</p>
 </body>
