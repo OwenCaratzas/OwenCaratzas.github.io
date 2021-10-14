@@ -23,7 +23,7 @@
 		Academy of Interactive Entertainment for two years, learning a couple of coding languages 
 		and experiencing working within development teams made with other students. 
 		During my studies, I have developed a good understanding of C# and C++, with a preference of C# using the Unity engine.
-		Some examples of things I have worked on:
+		<br>Some examples of things I have worked on:
 		<ul>
 			<li>Custom AI pathfinding and behaviours</li>
 			<li>An RPG character creator tool for storing, creating and managing character stats for use in games via XML files</li>
